@@ -1,0 +1,39 @@
+
+## Business Insights ##
+
+Growth: Revenue and order volume show a consistent upward trend from 2016–2018, indicating strong business expansion. Despite seasonal fluctuations, the overall sales trajectory remained positive.
+
+Customer: Customer orders are concentrated in a few major Brazilian states, with São Paulo contributing the highest share. Customer acquisition appears strong, while repeat purchasing opportunities remain an area for future growth.
+
+Product: Revenue is heavily concentrated in a limited number of product categories, following a classic 80/20 pattern where a small subset of categories contributes most of the revenue.
+
+Delivery: Most orders are delivered on or before the estimated delivery date. Statistical analysis confirms that late deliveries are significantly associated with lower customer satisfaction, making logistics one of the strongest drivers of review scores.
+
+Seller: Revenue is unevenly distributed across sellers. A relatively small number of sellers contribute a significant portion of total sales, while delivery speed and customer ratings vary considerably across sellers.
+
+Payment: Credit cards dominate as the preferred payment method, with many customers choosing installment-based payments. This indicates that flexible payment options play an important role in purchase decisions.
+
+Statistical Findings:
+
+   - Chi-Square Test confirmed a significant relationship between delivery delay and       customer satisfaction.
+   - ANOVA showed that average payment value differs significantly across payment methods.
+   - Pearson Correlation indicated little to no relationship between product price and review score, suggesting customer satisfaction depends more on service quality than price.
+
+
+### Business Recommendations ###
+
+1. Improve delivery performance by reducing delays, as on-time delivery has the greatest impact on customer satisfaction.
+2. Prioritize high-performing product categories through inventory optimization and targeted marketing campaigns.
+3. Reward top-performing sellers while providing performance improvement plans for sellers with consistently lower ratings or slower deliveries.
+4. Launch promotional campaigns during low-demand months to reduce seasonal fluctuations in revenue.
+5. Expand marketing efforts in high-potential regions while identifying opportunities to grow in underperforming states.
+6. Continue strengthening credit card and installment payment options, as they represent the preferred purchasing method for most customers.
+6. Use customer reviews as an early warning system to identify logistics or product quality issues before they significantly impact business performance.
+7. Leverage data-driven decision making by continuously monitoring KPIs such as revenue, delivery performance, customer satisfaction, and seller efficiency.
+
+
+###   Final Conclusion  ###
+
+his project demonstrates an end-to-end Exploratory Data Analysis (EDA) workflow on a real-world e-commerce dataset using Python, Pandas, NumPy, Matplotlib, Seaborn, and Statistical Analysis. By cleaning, integrating, visualizing, and analyzing multiple datasets, meaningful business insights were generated across customer behavior, sales trends, delivery performance, seller efficiency, product categories, and payment preferences.
+
+The analysis highlights how data can be transformed into actionable business recommendations, enabling organizations to improve operational efficiency, customer satisfaction, and revenue growth through evidence-based decision making.
